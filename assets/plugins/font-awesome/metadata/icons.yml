@@ -8235,6 +8235,19 @@ optin-monster:
   styles:
     - brands
   unicode: f23c
+orcid:
+  changes:
+    - 5.11.0
+  label: ORCID
+  search:
+    terms: []
+  styles:
+    - brands
+  unicode: f8d2
+osi:
+  changes:
+    - 5.0.0
+    - 5.8.0
 osi:
   changes:
     - 5.0.0
