@@ -2257,6 +2257,9 @@ readers do not read off random characters that represent icons */
 .fa-optin-monster:before {
   content: "\f23c"; }
 
+.fa-orcid:before {
+  content: "\f8d2"; }
+
 .fa-osi:before {
   content: "\f41a"; }
 
