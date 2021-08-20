@@ -16,7 +16,7 @@ sidebar:
     phone: #
     website: #blog.webjeda.com #do not add http://
     linkedin: shiva-satija
-    orcid: #
+    orcid: 0000-0001-8768-1539
     github: shiva-satija
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -38,10 +38,10 @@ sidebar:
       - item: Reading
         link:
 
-      - item: Travelling
+      - item: Blogging
         link:
 
-      - item: Cooking
+      - item: Travelling
         link:
 
 career-profile:
