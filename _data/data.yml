@@ -108,7 +108,7 @@ skills:
 
     toolset:
       - name: Python & R
-        level: 90%
+        level: 80%
 
       - name: Data Visualization
         level: 98%
@@ -122,8 +122,8 @@ skills:
       - name: NGS
         level: 85%
 
-      - name: Photoshop
-        level: 60%
+      - name: Microsoft Office
+        level: 90%
 
 Footer: >
     Designed with <i class="fas fa-heart"></i> by <Shiva Satija</a>
