@@ -21,7 +21,7 @@ sidebar:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@satijashiva'
+    twitter: #
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -84,6 +84,7 @@ experiences:
       company: Sri Venkeswara College, University of Delhi
       details: |
         Sri Venkateswara Internship Program for Research in Academics
+        
         Project Title: Exploring Microbiome: Integrating Concepts in Microbial Diversity,Bioinformatics and Physiology.
         
 projects:
