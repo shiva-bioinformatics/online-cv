@@ -25,11 +25,11 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: "#hook"
 
     languages:
       - idiom: English
-        level: Native
+        level: Fluent
 
       - idiom: Hindi 
         level: Native
