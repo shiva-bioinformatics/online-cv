@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: "https://docs.google.com/document/d/1sVta1430ncDHx9MDkBzYnjsyXtIses8NXlHjcAyb4kc/edit?usp=drivesdk"
+    pdf: #"https://docs.google.com/document/d/1sVta1430ncDHx9MDkBzYnjsyXtIses8NXlHjcAyb4kc/edit?usp=drivesdk"
 
     languages:
       - idiom: English
