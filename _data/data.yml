@@ -16,7 +16,7 @@ sidebar:
     phone: #
     website: #blog.webjeda.com #do not add http://
     linkedin: shiva-satija
-    orcid: 0000-0001-8768-1539
+    orcid: #
     github: shiva-satija
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -48,7 +48,7 @@ career-profile:
     title: Research Interest
     summary: #|
       Bioinformatics, Immunology, Molecular Biolology, Microbiology and Biotechnology.
-      Presently working on comparative genomics of SARS CoV-2. 
+      Presently working on comparative genomics of SARS CoV-2 and Dengue Virus. 
       
 education:
     - degree: MSc. Zoology
@@ -100,6 +100,11 @@ publications:
     title: Publications
     intro: |
     papers:
+    
+      - title: Intra-genomic heterogeneity in CpG dinucleotide composition in dengue virus.
+        link: "https://doi.org/10.1016/j.actatropica.2022.106501"
+        authors: Jaglan A *, <b>Satija S</b> *, Singh D , Phartyal R , Verma M  (*Joint First Author)
+        conference: Acta Tropica, 2022
       - title: Comparative Genomics and Integrated Network Approach Unveiled Undirected Phylogeny Patterns, Co-mutational HotSpots,
                Functional Cross Talk, and Regulatory Interactions in SARS-CoV-2.
         link: "https://doi.org/10.1128/mSystems.00030-21"
